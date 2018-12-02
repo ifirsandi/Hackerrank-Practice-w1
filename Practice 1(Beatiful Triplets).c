@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// Complete the beautifulTriplets function below.
-
 int main()
 {
     int n, d;
